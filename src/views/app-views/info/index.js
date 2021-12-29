@@ -9,8 +9,18 @@ export const informations = () => {
     const usedTechnologies = 
     [
         {
-            'name': 'Javascript',
-            'url' : 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png',
+            'name': 'PHP',
+            'url' : 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/1200px-Webysther_20160423_-_Elephpant.svg.png',
+            'description' : 'Backend' 
+        },
+        {
+            'name': 'Laravel',
+            'url' : 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png',
+            'description' : 'Framework PHP' 
+        },
+        {
+            'name': 'NodeJS',
+            'url' : 'https://logospng.org/download/node-js/logo-node-js-1024.png',
             'description' : 'Frontend' 
         },
         {
@@ -18,26 +28,24 @@ export const informations = () => {
             'url' : 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png',
             'description' : 'Library Javascript' 
         },
+
         {
-            'name': 'PHP',
-            'url' : 'https://seeklogo.com/images/P/php-logo-ADE513E748-seeklogo.com.png',
-            'description' : 'Backend' 
+            'name': 'Bootstrap',
+            'url' : 'https://download.logo.wine/logo/Bootstrap_(front-end_framework)/Bootstrap_(front-end_framework)-Logo.wine.png',
+            'description' : 'Frontend' 
         },
         {
-            'name': 'Laravel',
-            'url' : 'https://laravelnews.imgix.net/images/laravel-featured.png?ixlib=php-3.3.1',
-            'description' : 'Framework PHP' 
+            'name': 'Javascript',
+            'url' : 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png',
+            'description' : 'Frontend / Backend' 
         },
         {
             'name': 'Docker',
             'url' : 'https://logos-world.net/wp-content/uploads/2021/02/Docker-Symbol.png',
             'description' : 'Frontend' 
         },
-        {
-            'name': 'Bootstrap',
-            'url' : 'https://download.logo.wine/logo/Bootstrap_(front-end_framework)/Bootstrap_(front-end_framework)-Logo.wine.png',
-            'description' : 'Frontend' 
-        },
+
+        
     ];
 
 
